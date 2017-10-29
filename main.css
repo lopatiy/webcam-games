@@ -1,0 +1,14 @@
+body{
+    background: black;
+    text-align: center;
+}
+
+video {
+    display: none;
+}
+
+canvas{
+    display:inline-block;
+    width: 800px;
+    height: 600px;
+}
